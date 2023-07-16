@@ -1,0 +1,9 @@
+#GifContainer {
+    text-align: center; /*Evenly Distribute all boxes on the horizontal*/
+}
+
+.GifBox {
+    position: relative;
+    display: inline-block;
+    margin: 5px;
+}
